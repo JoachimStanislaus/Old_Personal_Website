@@ -1,0 +1,23 @@
+.JoachimIcon {
+    color:white;
+    background-color:transparent;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.JoachimIcon:hover{
+    color:white;
+    background-color:transparent;
+}
+
+.purple {
+    background: rgb(117,16,247);
+}
+
+
+
+.middle {
+    border-radius: 20px;
+    position: relative;
+    transform: translateY(-50%) translateX(-50%) ;
+    left: 50% ;
+}
