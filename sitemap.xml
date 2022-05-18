@@ -9,27 +9,32 @@
 
 <url>
   <loc>https://joachimstanislaus.com/</loc>
-  <lastmod>2022-04-07T13:07:23+00:00</lastmod>
+  <lastmod>2022-05-15T12:36:03+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://joachimstanislaus.com/about.html</loc>
-  <lastmod>2022-04-07T13:07:23+00:00</lastmod>
+  <lastmod>2022-05-15T12:36:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://joachimstanislaus.com/resume.html</loc>
-  <lastmod>2022-04-07T13:07:23+00:00</lastmod>
+  <lastmod>2022-05-15T12:36:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://joachimstanislaus.com/services.html</loc>
+  <lastmod>2022-05-15T12:36:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://joachimstanislaus.com/hello.html</loc>
-  <lastmod>2022-04-07T13:07:23+00:00</lastmod>
+  <lastmod>2022-05-15T12:36:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://joachimstanislaus.com/index.html</loc>
-  <lastmod>2022-04-07T13:07:23+00:00</lastmod>
+  <lastmod>2022-05-15T12:36:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
