@@ -1,3 +1,3 @@
 # Personal Website Made With Bulma
 
-Only a Temp Site while i built another
+Site has retired - new site built with react typescript, chakra ui & ag-grid
